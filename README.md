@@ -32,70 +32,67 @@ Week 6:
 - Bayes Theorem, Bayesian Networks and Hidden Markov Models
 - Support Vector Machines
 
-Week 6:
+Week 7:
 - Neural Networks
 - Deep CNNs
 
-Week 7:
+Week 8:
 - Computer Vision
 - Computer Vision for Self Driving Cars
 
-Week 8:
+Week 9:
 - Simultaneous Location and Mapping
 - Reinforcement Learning
 
-Week 9:
+Week 10:
 - Evolutionary Algorithms
 - Ensemble Stacking
 
-Week 10:
+Week 11:
 - Natural Language Processing (NLP)
 - Project Email Content Clustering
 
-Week 11:
+Week 12:
 - Map/reduce
 - Sparc/Hadoop/Hive
 
-Week 12:
+Week 13:
 - TensorFlow CNNs
 - Google TPUs
 
-Week 13:
+Week 14:
 - Amazon AI Services
 - Project Kaggle Contests
 
-Week 14:
+Week 15:
 - Project Predicting Real Estate Market
 - Project CNN Reproduce Hinton's seminal benchmark
 
-Week 15:
+Week 16:
 - Computer Architecture: CPUs
 - Computer Architecture: Memory and peripherals
 
-Week 16:
+Week 17:
 - Operating Systems
 - Parallel Computing
 
-Week 17:
+Week 18:
 - Intro to the C Programming Language
 - Comparing Results: High level and Low level languages
 
-Week 18:
+Week 19:
 - Theory of Computation
 - Algorithms
 
-Week 19:
+Week 20:
 - Computer Graphics
 - CUDA and OpenCL
 
-Week 20:
+Week 21:
 - Project: Rebuild Deep Dream
 
-Week 21:
-- Project Kaggle Contest
-
 Week 22:
-- Capstone Project
+- Project Kaggle Contest
 
 Week 23:
 - Capstone Project
@@ -104,6 +101,9 @@ Week 24:
 - Capstone Project
 
 Week 25:
+- Capstone Project
+
+Week 26:
 - Capstone Project
 
 
